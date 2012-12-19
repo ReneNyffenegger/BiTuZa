@@ -1,0 +1,108 @@
+
+
+a	Ajin;
+
+A       Aleph;
+
+b	nincs
+B	Beth;
+
+c	nincs
+C	Chet;
+
+d	Daleth;
+D	Daleth;
+
+e	magánhangzó-vokalzeichen van
+E	magánhangzó-vokalzeichen van
+
+f	nincs
+F	nincs
+
+g	nincs
+G	Gimel;
+
+h	nincs
+H	He;
+
+i	magánhangzó-vokalzeichen van
+I	magánhangzó-vokalzeichen van
+
+j	nincs
+J	Jod;
+
+k	nincs
+K	Kaph;
+
+l	nincs
+L	Lamed;
+
+m	nincs
+M	Mem;
+
+n	nincs
+N	Nun;
+
+o	magánhangzó-vokalzeichen van
+O	magánhangzó-vokalzeichen van
+
+p	nincs
+P	Pe;
+
+q	nincs
+Q	Qoph;
+
+r	nincs
+R	Resch;
+
+s	nincs
+S	Sin, Schin 
+
+t	Tet;
+T	Taw;
+
+u	magánhangzó-vokalzeichen van
+U	magánhangzó-vokalzeichen van
+
+v	nincs
+V	nincs
+
+w	nincs
+W	Waw;
+
+x	nincs
+X	nincs
+
+y	nincs
+Y	nincs
+
+z	nincs
+Z	Zajin;
+
+ß	Tzade;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

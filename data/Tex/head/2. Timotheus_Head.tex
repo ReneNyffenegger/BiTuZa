@@ -1,0 +1,36 @@
+\documentclass[a4paper,10pt,landscape]{article}
+\usepackage[landscape]{geometry}	%%Querformat
+\usepackage{fancyhdr}			%%Erweiterte Kopfzeilen
+\usepackage{color}			%%Farben
+\usepackage[greek,german]{babel}        %%Griechische und deutsche Namen
+\usepackage{cjhebrew}                   %%Hebräisches Packet
+\usepackage{upgreek}                    %%nicht kursive griechische Buchstaben
+\usepackage{amsbsy}                     %%fette griechische Buchstaben
+\setlength{\parindent}{0pt}		%%Damit bei neuen Abs"atzen kein Einzug
+\frenchspacing
+
+\pagestyle{fancy}			%%Kopf-/Fußzeilenstyle
+
+\renewcommand{\headrulewidth}{0.5pt}	%%Strich in Kopfzeile
+\renewcommand{\footrulewidth}{0pt}	%%kein Strich in Fußzeile
+\renewcommand{\sectionmark}[1]{\markright{{#1}}}
+\lhead{\rightmark}
+\chead{}
+\rhead{Bibel in Text und Zahl}
+\lfoot{pgz}
+\cfoot{\thepage}			%%Seitenzahl
+\rfoot{}
+
+\renewcommand{\section}[3]{\begin{center}{ \huge {\bf \textsl{{#1}}\\ \textcolor{red}{\textsl{{#2}}}}}\end{center}
+\sectionmark{{#3}}}
+
+\renewcommand{\baselinestretch}{0.9}	%%Zeilenabstand
+
+\begin{document}			%%Dokumentbeginn
+
+\section{\bigskip\bigskip\bigskip\bigskip\bigskip\bigskip
+\\Der zweite Brief an Timotheus}
+{}
+{2. Timotheus}	%%Überschrift (übergibt {schwarzen
+										%%Text}{roten Text}{Text in Kopfzeile}
+

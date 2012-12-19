@@ -1,0 +1,67 @@
+a	Ajin;
+A	Aleph;
+B	Beth;
+C	Chet;
+#d	Daleth;
+D	Daleth;
+
+#e	magánhangzó-vokalzeichen van
+#E	magánhangzó-vokalzeichen van
+
+G	Gimel;
+H	He;
+
+#i	magánhangzó-vokalzeichen van
+#I	magánhangzó-vokalzeichen van
+
+J	Jod;
+K	Kaph;
+L	Lamed;
+M	Mem;
+N	Nun;
+
+#o	magánhangzó-vokalzeichen van
+#O	magánhangzó-vokalzeichen van
+
+P	Pe;
+Q	Qoph;
+R	Resch;
+
+s	Samech
+S	Sin, Schin 
+
+t	Tet;
+T	Taw;
+
+#u	magánhangzó-vokalzeichen van
+#U	magánhangzó-vokalzeichen van
+
+W	Waw;
+Z	Zajin;
+ß	Tzade;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
